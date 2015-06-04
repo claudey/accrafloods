@@ -1,4 +1,4 @@
-[AccraFloods.com](accrafloods.com) is a website created in June 2015 to crowdsource information on the tragic floods which occurred beginning June the same year.
+[AccraFloods.com](http://accrafloods.com) is a website created in June 2015 to crowdsource information on the tragic floods which occurred beginning June the same year.
 
 The portal will help disseminate information on safety tips, missing persons, news items, messages of condolence, and images from flooded neighbourhoods.
 
