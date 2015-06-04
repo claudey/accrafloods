@@ -15,10 +15,10 @@ The portal will help disseminate information on safety tips, missing persons, ne
 Finally, this website will help us keep track of our efforts as Ghanaians as it monitors (hopefully not) several foods in the coming years.
 
 The links for the listed pages are as follows:
-    1. [Safety Tips](accrafloods.com/safety)
-    2. [Missing Persons](accrafloods.com/missing)
-    3. [News Items](accrafloods.com/news)
-    4. [Pictures](accrafloods.com/images)
-    5. [Social Media](accrafloods.com/stream)
+    1. [Safety Tips](http://accrafloods.com/safety)
+    2. [Missing Persons](http://accrafloods.com/missing)
+    3. [News Items](http://accrafloods.com/news)
+    4. [Pictures](http://accrafloods.com/images)
+    5. [Social Media](http://accrafloods.com/stream)
 
 **Keep Ghana clean, you can save lives!**
