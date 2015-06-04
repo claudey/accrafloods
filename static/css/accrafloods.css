@@ -3,6 +3,13 @@ body {
     font-size: 28px;
 }
 
+section.intro {
+    font-size: 15px;
+    text-align: center;
+    background: #f3f3f3;
+    padding: 15px;
+}
+
 .numbers-to-call {
     text-align: center;
     margin-bottom: 50px;
